@@ -1,0 +1,10 @@
+package Variable;
+
+public class VarEx3 {
+    public static void main(String[] args) {
+        long a=1000000000L;
+        System.out.println(a);
+        boolean b=true;
+        System.out.println(b);
+    }
+}
